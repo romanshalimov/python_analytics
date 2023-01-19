@@ -19,14 +19,6 @@ directories = {
  '3': []
 }
 
-# def all_information ():
-#     """вспомогательная функция"""
-#     for doc in documents:
-#         doc_type = doc.get('type')
-#         doc_number = doc.get('number')
-#         doc_name = doc.get('name')
-#         print (f'{doc_type} "{doc_number}" "{doc_name}"')
-
 #Пользователь по команде "ad" может добавить новый документ в данные
 def new_document ():
     """добавляет новый документ"""
@@ -85,7 +77,6 @@ def secretary_job ():
         commands = input ('Введите команду: ')
         if commands == 'ad':
             new_document ()
-            # all_information()
         elif commands == 'd':
             delete_document ()
         elif commands == 'm':
