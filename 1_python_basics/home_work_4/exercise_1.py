@@ -76,6 +76,7 @@ def newshelf ():
 
 #Пользователь по команде "ds" может удалить существующую полку из данных (только если она пустая)
 def shelf_delete ():
+    """удаляет полку"""
     del_shelf = input('Введите номер полки: ')
     if del_shelf in directories:
         if directories[del_shelf]:
