@@ -70,9 +70,9 @@ class Rate:
         """Возвращает курс доллара на сегодня в формате self.format"""
         return self.make_format('USD')
 
-    def AZN(self):
+    def azn(self):
         """Возвращает курс азербайджанского маната на сегодня в формате self.format"""
         return self.make_format('AZN')
 
-print(Rate(diff = True).eur())
+print(Rate(diff = True).azn())
 
