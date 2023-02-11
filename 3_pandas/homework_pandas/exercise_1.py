@@ -52,28 +52,3 @@ filtered = fltr_cls.query('Rating == 5')
 result = filtered['Title'].value_counts().head(1)
 print(str(result).split('  ')[0])
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
