@@ -1,14 +1,14 @@
 # Задание 1. Скачайте с сайта https://grouplens.org/datasets/movielens/ датасет любого размера.
 # Определите какому фильму было выставлено больше всего оценок 5.0.
 
-# import urllib.request
+import urllib.request
 import zipfile as generation_z
 import pandas as pd
 
 # импортируем файл с сайта
-# destination = 'ml-10m.zip'
-# url = 'https://files.grouplens.org/datasets/movielens/ml-10m.zip'
-# urllib.request.urlretrieve(url, destination)
+destination = 'ml-10m.zip'
+url = 'https://files.grouplens.org/datasets/movielens/ml-10m.zip'
+urllib.request.urlretrieve(url, destination)
 
 zip_package = 'ml-10m.zip'
 
