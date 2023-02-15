@@ -2,7 +2,7 @@
 # Определите какому фильму было выставлено больше всего оценок 5.0.
 
 # import urllib.request
-import zipfile as generation_z
+import zipfile as z
 import pandas as pd
 
 # импортируем файл с сайта
@@ -17,7 +17,7 @@ movies_in_zip = zip_package.strip('ml-10m.zip') + 'ml-10M100K/movies.dat'
 ratings_in_zip = zip_package.strip('ml-10m.zip') + 'ml-10M100K/ratings.dat'
 
 # создадим объект с данными
-with generation_z.ZipFile(zip_package, 'r') as data_in:
+with z.ZipFile(zip_package, 'r') as data_in:
     # data_in.printdir()
     # print(data_in.namelist())
     
