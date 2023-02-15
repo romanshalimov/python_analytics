@@ -8,11 +8,10 @@ import pandas as pd
 # откроем файлы и объединим датафреймы
 ratings = pd.read_csv('ratings.csv')
 movies = pd.read_csv('movies.csv')
-df = movies.merge(ratings) # on = 'movieId', inner, outer, left, right
+df = movies.merge(ratings, on = 'movieId', how = 'left') # inner, outer, left, right
 
 # сгруппируем по названиям фильмов и получим объект датафрейма с уникальными названиями
 df_groupby_object = df.groupby(['title'])
-# <pandas.core.groupby.generic.DataFrameGroupBy object at 0x000001F6DE06B100>
 
 # вычислим среднее значение рейтинга для каждого фильма и вернём датафрейм
 films_classification = df_groupby_object.rating.mean().reset_index()
@@ -26,7 +25,7 @@ def rating_classification(row):
     else:
         return 'High'
 
-# применим функцию к столбцам ось 1
+# применим функцию к строкам ось 1
 films_classification['class'] = films_classification.apply(rating_classification, axis = 1)
 
 films_classification.head
