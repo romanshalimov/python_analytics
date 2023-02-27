@@ -68,7 +68,7 @@
 ## Python Basics
 
 
-1.1 [Conditional конструкции](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/1.1_LEC_python.ipynb)
+1.1 [Conditional constructions](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/1.1_LEC_python.ipynb)
 
 1.2 [Regular Expressions](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/1.2_LEC_regular_expressions.ipynb)
 
@@ -93,7 +93,7 @@
 
 2.2.2 [Pandas. Logical conditions. Data collection from the BeautifulSoup website. A separate column (type Series). Sorting. Inplace. ](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/2.2.2_LEC_pandas_and_BeautifulSoup.ipynb)
 
-2.2.3 [Automation of authorization using the Selenium library.](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/2 .2.3_LEC_selenium_authorization.ipynb)
+2.2.3 [Automation of authorization using the Selenium library.](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/2.2.3_LEC_selenium_authorization.ipynb)
 
 2.3 [Creating columns on the go. Groupings and window functions. Groupings with empty values.](https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/2.3_LEC_pandas_apply_examples.ipynb)
 
