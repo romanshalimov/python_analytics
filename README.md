@@ -4,7 +4,7 @@
 ## Основы Python
 
 
-1.1 (Условные конструкции)[]
+1.1 (Условные конструкции)[https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/1.1_HW_python_basics.ipynb]
 
 1.2 (Регулярные выражения)[]
 
