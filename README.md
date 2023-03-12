@@ -69,17 +69,11 @@
     </ul>
   </ol>
 </details>
-
 <details>
-  <summary>Визуализация</summary>
+  <summary>Статистика в Python</summary>
   <ol>
-    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.1_HW_DataLens.url">DataLens</a></li>
-    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.2_HW_Excel.xlsx">Excel</a></li>
-    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.3_HW_PowerBI.pbix">PowerBI</a></li>
-    <li><a href="">Tableau</a></li>
   </ol>
 </details>
-
 <details>
   <summary>Нейронные сети</summary>
   <ol>
@@ -88,13 +82,14 @@
     <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/HW3_neural_nets_Shalimov_Roman.ipynb">HW3</a></li>
   </ol>
 </details>
-
 <details>
-  <summary>Статистика в Python</summary>
+  <summary>DataLens, Excel, PowerBI</summary>
   <ol>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.1_HW_DataLens.url">DataLens</a></li>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.2_HW_Excel.xlsx">Excel</a></li>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/7.3_HW_PowerBI.pbix">PowerBI</a>
   </ol>
 </details>
-
 <details>
   <summary>Веб-скрапинг с Selenium</summary>
   <ol>
