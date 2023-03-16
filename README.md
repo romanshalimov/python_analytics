@@ -106,7 +106,7 @@
   </ol>
 </details>
 
-<h2 align="center">Систематизация обучения</h2>
+<h2 align="center">Библиотеки и методы</h2>
 
 <table align="center">
   <tr>
