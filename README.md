@@ -6,7 +6,7 @@
 ### :scroll: Лекции и домашние задания по курсу "Python для анализа данных"
 
 <details>
-  <summary>Основы Python</summary>
+  <summary>Python</summary>
   
   <ol>
     <li><a href="https://github.com/romanshalimov/study_netology_python_for_analytics/blob/main/1.1_LEC_python.ipynb">Условные конструкции</a></li>
@@ -76,7 +76,7 @@
   </ol>
 </details>
 <details>
-  <summary>Статистика в Python</summary>
+  <summary>Статистика</summary>
   <ol>
       <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.1_LEC_basic_statistics.ipynb">Базовые понятия статистики</a></li>
     <ul>
@@ -101,7 +101,7 @@
   </ol>
 </details>
 <details>
-  <summary>Веб-скрапинг с Selenium</summary>
+  <summary>Selenium</summary>
   <ol>
   </ol>
 </details>
