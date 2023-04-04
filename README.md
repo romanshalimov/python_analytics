@@ -82,6 +82,17 @@
     <ul>
     <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.1_LEC_basic_statistics.ipynb">Домашнее задание</a></li>
     </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.2_LEC_visualisation.ipynb">Библиотеки по визуализации данных</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.2_HW_visualisation.ipynb">Домашнее задание</a></li>
+    </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.3_LEC_random.ipynb">Теория вероятностей</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.3_HW_random_events.ipynb">Домашнее задание</a></li>
+    </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.4_LEC_correlation.ipynb">Корреляционный анализ и линейная регрессия</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.4_HW_correlation.ipynb">Домашнее задание</a></li>
+    </ul>
   </ol>
 </details>
-<details>
