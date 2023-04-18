@@ -94,6 +94,24 @@
     <ul>
     <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.4_HW_correlation.ipynb">Домашнее задание</a></li>
     </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.5_HW_classification_and_clustering.ipynb">Классификация и кластеризация</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.5_HW_classification_and_clustering.ipynb">Домашнее задание</a></li>
+    </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.7_HW_AB_testing.ipynb">A/B тестирование</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.7_HW_AB_testing.ipynb">Домашнее задание</a></li>
+    </ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.8_HW_stat_case_study.ipynb">Кейс-стади</a></li>
+    <ul>
+    <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/3.8_HW_stat_case_study.ipynb">Домашнее задание</a></li>
+    </ul>
+  </ol>
+</details>
+<details>
+  <summary>Дипломная работа</summary>
+  <ol>
+      <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/DIPLOM_WORK.ipynb">Дипломная работа</a></li>
   </ol>
 </details>
 
