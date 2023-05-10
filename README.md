@@ -109,6 +109,18 @@
   </ol>
 </details>
 <details>
+  <summary>Нейронные сети / DataLens, PowerBI / Системная аналитика</summary>
+  <ol>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/HW1_neural_nets_Shalimov_Roman.ipynb">Нейронные сети 1</a>       </li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/HW2_neural_nets_Shalimov_Roman.ipynb">Нейронные сети 2</a></li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/HW3_neural_nets_Shalimov_Roman.ipynb">Нейронные сети 3</a></li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/HW4_neural_nets_Shalimov_Roman.ipynb">Нейронные сети 4</a></li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/7.1_HW_DataLens.url">Datalens</a></li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/7.3_HW_PowerBI.pbix">PowerBI</a></li>
+    <li><a href="https://github.com/romanshalimov/python_analytics/blob/main/HW2_systems_analysis_Shalimov_Roman.ipynb">Системная аналитика</a></li>
+  </ol>
+</details>
+<details>
   <summary>Дипломная работа</summary>
   <ol>
       <li><a href="https://github.com/romanshalimov/pyda_homework/blob/main/DIPLOM_WORK.ipynb">Дипломная работа</a></li>
