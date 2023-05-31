@@ -1,3 +1,5 @@
+![](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/284322/ca5e8509219e278a59b81bdb70ba2b54.png)
+
 <!-- Лекции и домашние задания по курсу "Python для анализа данных" -->
 ### :scroll: Лекции и домашние задания по курсу "Python для анализа данных"
 
